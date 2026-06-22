@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "home": {
+    "eyebrow": "Systems Engineer",
+    "role": "Full Stack Engineer",
+    "location": "Medellín, CO",
+    "tagline": "I build digital products that work — from database design to the pixel on screen.",
+    "available": "Available for remote work and freelance",
+    "cta_projects": "View projects",
+    "cta_contact": "Contact me",
+    "stack_label": "Tech stack",
+    "scroll": "scroll"
+  },
+  "about": {
+    "title": "About me",
+    "eyebrow": "about me",
+    "download_cv": "Download CV",
+    "location": "Medellín, Colombia",
+    "languages": "ES / EN",
+    "experience": "0–2 years exp."
+  },
+  "projects": {
+    "title": "Projects",
+    "eyebrow": "portfolio",
+    "filter_all": "All",
+    "view_more": "View more",
+    "back": "Back to projects",
+    "problem": "The problem",
+    "solution": "The solution",
+    "result": "The result",
+    "view_github": "View on GitHub",
+    "view_live": "View live"
+  },
+  "experience": {
+    "title": "Experience",
+    "eyebrow": "background",
+    "present": "Present",
+    "certifications": "Certifications",
+    "verify": "View credential"
+  },
+  "services": {
+    "title": "Services",
+    "eyebrow": "freelance",
+    "cta": "Let's talk about your project"
+  },
+  "contact": {
+    "title": "Contact",
+    "eyebrow": "let's talk",
+    "subtitle": "Available for freelance projects and remote work.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "name_placeholder": "Your name",
+    "email_placeholder": "you@email.com",
+    "subject_placeholder": "How can I help you?",
+    "message_placeholder": "Tell me about your project...",
+    "send": "Send message",
+    "sending": "Sending...",
+    "success": "Message sent! I'll get back to you soon.",
+    "error": "Something went wrong. Please try again.",
+    "other_channels": "Prefer another channel?",
+    "response_time": "I respond within 24 hours."
+  },
+  "footer": {
+    "next": "Next"
+  }
+}
