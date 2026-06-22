@@ -1,5 +1,3 @@
-import type { Metadata } from "next";
-
 // export const metadata: Metadata = {
 //   title: "Juan Alzate - Full Stack Engineer",
 //   description:
