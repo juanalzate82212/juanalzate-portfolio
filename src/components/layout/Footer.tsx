@@ -80,7 +80,7 @@ export function Footer({ currentPath }: FooterProps) {
                 className="font-mono text-sm uppercase tracking-widest"
                 style={{ color: 'var(--color-text-muted)' }}
               >
-                // Redes
+                {`// Redes`}
               </p>
               <div className="flex gap-3">
                 {/* GitHub */}

@@ -19,7 +19,7 @@ export default async function HomePage({
             className="font-mono text-xs uppercase tracking-widest mb-4"
             style={{ color: 'var(--color-accent)' }}
           >
-            // {t('eyebrow')}
+            {`// ${t('eyebrow')}`}
           </p>
           <h1
             className="font-mono font-bold mb-3"
