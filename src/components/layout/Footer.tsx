@@ -16,7 +16,7 @@ export function Footer({ currentPath }: FooterProps) {
   return (
     <footer>
       {/* Wave divider */}
-      <div style={{ lineHeight: 0, marginBottom: '-2px' }}>
+      <div style={{ lineHeight: 0, marginBottom: '-2px', position: "relative", zIndex: 1 }}>
         <svg
           data-name="Layer 1"
           xmlns="http://www.w3.org/2000/svg"
@@ -43,7 +43,7 @@ export function Footer({ currentPath }: FooterProps) {
 
       {/* Contenido del footer */}
       <div
-        style={{ background: 'var(--color-bg-nav)' }}
+        style={{ background: 'var(--color-bg-nav)', position: "relative", zIndex: 1 }}
       >
         <div style={{ width: "100%",
           padding: "40px 48px 48px 48px"
