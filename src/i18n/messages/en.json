@@ -8,7 +8,7 @@
     "contact": "Contact"
   },
   "home": {
-    "eyebrow": "Systems Engineer",
+    "eyebrow": "Computer Engineer",
     "role": "Full Stack Engineer",
     "location": "Medellín, CO",
     "tagline": "I build digital products that work — from database design to the pixel on screen.",
@@ -23,7 +23,18 @@
     "eyebrow": "about me",
     "download_cv": "Download CV",
     "location": "Medellín, Colombia",
-    "languages": "ES / EN",
+    "languages": "ES native · EN advanced · FR basic",
+    "education": "Computer Engineering",
+    "section_pro": "// professional",
+    "section_do": "// what I do",
+    "section_looking": "// what I'm looking for",
+    "section_hobbies": "// outside the code",
+    "section_quote": "// philosophy",
+    "bio_1": "I am an active person constantly seeking to learn and improve my skills. With a degree in Computer Engineering, I was trained to solve IT-related problems from analysis to deployment.",
+    "bio_2": "I am meticulous about my work and strive for perfection in every project. I handle analysis, design, development, testing, deployment and maintenance of software systems.",
+    "looking": "To participate in IT projects — software development, data analysis or planning — to learn and grow as a professional. I value pleasant work environments because they enhance the efficiency and effectiveness of the team. I am open to any opportunity as long as I feel comfortable doing it.",
+    "quote": "The world is a simply complex place.",
+    "quote_author": "Juan Alzate",
     "experience": "0–2 years exp."
   },
   "projects": {

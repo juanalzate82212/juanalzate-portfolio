@@ -117,3 +117,39 @@ main {
     box-shadow: 0 0 0 5px rgba(0, 255, 148, 0);
   }
 }
+
+/* About page responsive grid */
+.about-grid {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 40px;
+}
+
+.about-left {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.about-quote {
+  max-width: 560px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+@media (max-width: 640px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-left {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .about-quote {
+    max-width: 100%;
+  }
+}
