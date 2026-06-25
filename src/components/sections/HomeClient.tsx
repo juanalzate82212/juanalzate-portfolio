@@ -58,7 +58,7 @@ export function HomeClient({ locale, translations: t }: HomeClientProps) {
             eyebrow={t.eyebrow}
             role={t.role}
             tagline={t.tagline}
-            available={t.available}
+            // available={t.available}
             ctaProjects={t.ctaProjects}
             ctaContact={t.ctaContact}
             stackLabel={t.stackLabel}
