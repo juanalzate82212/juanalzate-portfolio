@@ -6,7 +6,7 @@ interface HeroFullProps {
   eyebrow: string
   role: string
   tagline: string
-  available: string
+  // available: string
   ctaProjects: string
   ctaContact: string
   stackLabel: string
@@ -19,7 +19,7 @@ export function HeroFull({
   eyebrow,
   role,
   tagline,
-  available,
+  // available,
   ctaProjects,
   ctaContact,
   stackLabel,

@@ -1,7 +1,6 @@
 'use client'
 
 import Link from 'next/link'
-import { useLocale } from 'next-intl'
 import { GraduationCap, ArrowRight } from 'lucide-react'
 
 interface ExperienceClientProps {

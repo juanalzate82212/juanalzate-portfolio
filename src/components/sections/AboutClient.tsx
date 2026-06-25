@@ -9,6 +9,7 @@ import {
   Download,
   MicVocal
 } from "lucide-react";
+import Image from 'next/image';
 
 const WHAT_I_DO = [
   { es: "Desarrollo web a medida", en: "Custom web development" },
@@ -90,10 +91,10 @@ export function AboutClient({ locale, translations: t }: AboutClientProps) {
         {/* Columna izquierda */}
         <div className="about-left">
           {/* Foto */}
-          <img src="https://yvieltbgapfbzucymeta.supabase.co/storage/v1/object/public/portfolio-assets/about/Foto%20Documento%202026.jpg" alt="Juan Alzate" 
+          <Image src="https://yvieltbgapfbzucymeta.supabase.co/storage/v1/object/public/portfolio-assets/about/Foto%20Documento%202026.jpg" alt="Juan Alzate" 
+          width= {140}
+          height= {140}
           style={{
-            width: "140px",
-            height: "140px",
             borderRadius: "12px",
             objectFit: "cover",
             border: "1px solid var(--color-border-subtle",
@@ -380,7 +381,7 @@ export function AboutClient({ locale, translations: t }: AboutClientProps) {
               marginBottom: "10px",
             }}
           >
-            "{t.quote}"
+            &ldquo;{t.quote}&rdquo;
           </p>
           <p
             className="font-mono"
