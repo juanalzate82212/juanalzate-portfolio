@@ -53,8 +53,17 @@
     "title": "Experiencia",
     "eyebrow": "trayectoria",
     "present": "Presente",
-    "certifications": "Certificaciones",
-    "verify": "Ver credencial"
+    "section_work": "// experiencia laboral",
+    "section_education": "// educación",
+    "hint_text": "¿Quieres conocer más de mis proyectos profesionales y personales?",
+    "hint_link": "Ver Proyectos",
+    "freelance_title": "Desarrollador Full Stack Freelance",
+    "freelance_subtitle": "Trabajo independiente · Medellín, CO",
+    "freelance_desc": "Desarrollo de soluciones web para clientes, gestionando el ciclo completo del proyecto: levantamiento de requisitos, diseño, desarrollo, despliegue y entrega de documentación.",
+    "solumeci_desc": "Página web corporativa para empresa del sector industrial en Medellín. Incluye dominio personalizado, despliegue en producción y documentación completa (Acta de Entrega, entre otros).",
+    "edu_degree": "Ingeniería Informática",
+    "edu_institution": "Politécnico Colombiano Jaime Isaza Cadavid",
+    "edu_expected": "Graduación: Dic 2026"
   },
   "services": {
     "title": "Servicios",

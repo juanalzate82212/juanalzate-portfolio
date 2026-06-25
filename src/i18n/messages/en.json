@@ -53,8 +53,17 @@
     "title": "Experience",
     "eyebrow": "background",
     "present": "Present",
-    "certifications": "Certifications",
-    "verify": "View credential"
+    "section_work": "// work experience",
+    "section_education": "// education",
+    "hint_text": "Want to know more about my professional and personal projects?",
+    "hint_link": "View Projects",
+    "freelance_title": "Freelance Full Stack Developer",
+    "freelance_subtitle": "Independent · Medellín, CO",
+    "freelance_desc": "Web solutions development for clients, managing the complete project lifecycle: requirements gathering, design, development, deployment and documentation delivery.",
+    "solumeci_desc": "Corporate website for an industrial sector company in Medellín. Includes custom domain, production deployment and full documentation (Project Delivery Certificate, among others).",
+    "edu_degree": "Computer Engineering",
+    "edu_institution": "Politécnico Colombiano Jaime Isaza Cadavid",
+    "edu_expected": "Graduation: Dec 2026"
   },
   "services": {
     "title": "Services",
