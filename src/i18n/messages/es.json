@@ -67,8 +67,24 @@
   },
   "services": {
     "title": "Servicios",
-    "eyebrow": "freelance",
-    "cta": "Hablemos de tu proyecto"
+    "eyebrow": "lo que ofrezco",
+    "section_main": "// servicios principales",
+    "section_secondary": "// también puedo ayudarte con",
+    "section_process": "// cómo trabajo",
+    "badge_popular": "Más solicitado",
+    "coming_soon_label": "// próximamente",
+    "coming_soon_text": "Más servicios en camino",
+    "cta_title": "¿Tienes un proyecto en mente?",
+    "cta_sub": "Cuéntame tu idea - encontramos juntos la mejor solución técnica.",
+    "cta_btn": "Hablemos",
+    "process_1_title": "Descubrimiento",
+    "process_1_desc": "Identificación de requisitos mediante reuniones y análisis de necesidades del cliente.",
+    "process_2_title": "Planificación",
+    "process_2_desc": "Selección de tecnologías, diseño de arquitectura y mockups de la solución.",
+    "process_3_title": "Desarrollo",
+    "process_3_desc": "Implementación iterativa con revisiones continuas de las partes interesadas.",
+    "process_4_title": "Entrega",
+    "process_4_desc": "Despliegue, pruebas finales, documentación y mantenimiento post-entrega."
   },
   "contact": {
     "title": "Contacto",
